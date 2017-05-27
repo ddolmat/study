@@ -6,7 +6,7 @@ then메소드에 의해 실행되는 콜백함수는 resolve나 reject메소드�
 ```JavaScript
 let myFirstPromise = new Promise((resolve, reject) => {
   setTimeout(function(){
-    resolve("Success!"); // Yay! Everything went well!
+    resolve("Success!");
   }, 250);
 });
 
