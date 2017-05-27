@@ -2,3 +2,4 @@
 
 # JavaScript
 [this](https://github.com/ddolmat/study/blob/master/JavaScript/this.md)
+[promise](https://github.com/ddolmat/study/blob/master/JavaScript/promise.md)
